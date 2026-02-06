@@ -146,18 +146,4 @@ header .container main .card4 {
   border: 1px solid grey;
   padding: 20px 20px;
   transform: translate(550px, -500px);
-}
-
-@media (max-width: 1200px) {
-  .container {
-    width: 100%;
-    padding: 10px;
-  }
-  main {
-    flex-direction: column;
-  }
-  .img1 {
-    width: 300px;
-    height: 300px;
-  }
 }/*# sourceMappingURL=style.css.map */
